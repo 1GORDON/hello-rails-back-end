@@ -61,8 +61,6 @@ bundle install
 - LinkedIn: [Tinyefuza-Gordon](https://www.linkedin.com/in/tinyefuza-gordon/)
 
 
-
-
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
