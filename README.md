@@ -12,6 +12,10 @@ This exercise is going to have you create a React front-end with a Rails back-en
 - ruby
 - rails
 
+## Link to the react-front-end app
+
+[React-front-end app](https://github.com/1GORDON/hello-react-front-end)
+
 ## Getting Started
 
 To get a local copy up and running follow these simple example steps.
